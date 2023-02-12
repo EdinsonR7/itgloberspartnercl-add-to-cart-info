@@ -1,0 +1,51 @@
+.container {
+  padding   : 50px;
+  text-align: center;
+
+}
+
+.button__group {
+  background-color: rgb(242, 16, 8);
+  border          : none;
+  height          : 35px;
+
+}
+
+.label__boton {
+  color          : #fff;
+  height         : 35px;
+  width          : 100%;
+  font-family    : Montserrat, sans-serif;
+  font-weight    : 800;
+  font-size      : .75rem;
+  text-decoration: none;
+}
+
+.buttontotal {
+  color      : #18337f;
+  font-weight: 600;
+
+}
+
+.buttontotal2 {
+  border: 2px solid #18337f;
+  height: 43px;
+
+}
+
+.buttontotal3 {
+  border: 2px solid #18337f;
+  height: 43px;
+}
+
+.buttontotal4 {
+  border: 2px solid #d12e09;
+  height: 43px;
+}
+
+.itemText {
+  font-family: Roboto, sans-serif;
+  font-weight: 600;
+  font-size  : 13px;
+  color      : #000;
+}
